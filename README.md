@@ -1,6 +1,6 @@
-# (Application Name)
+# To-Do App
 
-#### (Brief Description of Application)
+#### A simple to-do list app
 
 ## Created by [@nicckaufman](https://www.github.com/niccikaufman)
 
@@ -16,13 +16,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/niccikaufman/REPOSITORY.git
+  git clone https://github.com/niccikaufman/to-do-app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd DIRECTORY
+  cd to-do-app
 ```
 
 Install dependencies
